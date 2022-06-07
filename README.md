@@ -6,8 +6,8 @@ This is a Flask Todo App using SQLAlchemy and SQLite database.
 Create project with virtual environment
 
 ```Terminal
-$ mkdir myproject
-$ cd myproject
+$ git clone https://github.com/brianayienda/flask_todo_app
+$ cd flask_todo_app
 $ python3 -m venv venv
 ```
 
